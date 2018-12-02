@@ -1,0 +1,29 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2015 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 7272
+!	Application: Creo_Parametric
+!	Start date&time: 2015/11/14  19:56:50
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: M050
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: E:\Reverse Engineering Project\traceback.log
+!end Exit Logger data.
+< 0 1.205333 1752 0 0 1017 1920 0 0 1080 13
+!mem_use INCREASE Blocks 625364, AppSize 60116205, SysSize 72024720
+< 0 0.973037 1630 0 0 821 1920 0 0 1080 13
+< 0 0.973037 1467 0 0 821 1920 0 0 1080 13
+< 0 0.970667 1467 0 0 819 1920 0 0 1080 13
+!%CIWelcome to PTC Creo Parametric Educational Edition 3.0.
+< 0 0.969481 1467 0 0 818 1920 0 0 1080 13
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : PTC Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

@@ -1,0 +1,13 @@
+-------------------------------------------------
+The trace creation timestamp is: Thu Oct 22 15:59:56 15
+The executable build timestamp is: Tue Jul 21 09:06:35 15
+The datecode is: 2015200
+The pro machine type is: x86e_win64
+The process ID is: 7000
+The traceback type is : CRASH
+The logger exit status is: 00103
+-------------------------------------------------
+Exception EXCEPTION_ACCESS_VIOLATION has occurred in the thread 6432.
+
+Thread 6432
+=====================

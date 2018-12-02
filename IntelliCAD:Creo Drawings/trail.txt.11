@@ -1,0 +1,92 @@
+﻿!trail file version No. 1800
+!Creo  TM  3.0  (c) 2015 by PTC Inc.  All Rights Reserved.
+!Exit Logger data:
+!	Process ID: 4128
+!	Application: Creo_Parametric
+!	Start date&time: 2015/11/14  19:53:52
+!	language: usascii
+!	machine type: x86e_win64
+!	datecode: M050
+!	Server: NONE
+!	Workspace: NONE
+!	traceback file: E:\Reverse Engineering Project\traceback.log
+!end Exit Logger data.
+< 0 1.205333 1752 0 0 1017 1920 0 0 1080 13
+!mem_use INCREASE Blocks 625430, AppSize 61093699, SysSize 73390296
+< 0 0.973037 1630 0 0 821 1920 0 0 1080 13
+< 0 0.973037 1467 0 0 821 1920 0 0 1080 13
+< 0 0.970667 1467 0 0 819 1920 0 0 1080 13
+!%CIWelcome to PTC Creo Parametric Educational Edition 3.0.
+#DRAWING
+#RETRIEVE
+!%CPEnter object name: 
+!%TR
+E:\Reverse Engineering Project\drw0002.drw.1
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+!Command ProCmdModelOpenExe was pushed from the software.
+!14-Nov-15 19:53:54  Start E:\Reverse Engineering Project\drw0002.drw.1
+!14-Nov-15 19:53:54  Start E:\Reverse Engineering Project\tacredesign.prt.46
+!14-Nov-15 19:53:55  End   E:\Reverse Engineering Project\tacredesign.prt.46
+!14-Nov-15 19:53:55  End   E:\Reverse Engineering Project\drw0002.drw.1
+!%CWNew objects created with this educational version of Creo Parametric will not be
+!%C_compatible with commercially licensed Creo Parametric software.
+< 0 0.939852 1467 0 0 793 1920 0 0 1080 13
+!mem_use INCREASE Blocks 691164, AppSize 109031022, SysSize 125581120
+!Command ProCmdEnvShaded was pushed from the software.
+!%CI Shaded model will be displayed
+< 0 0.938667 1467 0 0 792 1920 0 0 1080 13
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Activate `main_dlg_cur` `EMBED_BROWSER Close`
+~ Timer `UI Desktop` `UI Desktop` `EmbedBrowserTimer`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 680 202 0 1 1467 792 1920 1080 9435
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 680 202 0 0 1467 792 1920 1080 9530
+@ sel view 0
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0
+@ sel view 4
+ 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000
+ 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0
+@ sel view 1
+ 45.454545 0.000000 0.000000 0.000000 45.454545 0.000000
+ 0.000000 0.000000 45.454545 276.333038 339.678193 -50.016348 1.000000 0.000000 0
+@ sel view 2
+ 45.454545 0.000000 0.000000 0.000000 0.000000 -45.454545
+ 0.000000 45.454545 0.000000 276.333038 687.586837 8.204978 1.000000 0.000000 0
+@ sel view 3
+ 0.000000 0.000000 -45.454545 0.000000 45.454545 0.000000
+ 45.454545 0.000000 0.000000 700.685991 339.678193 -0.041492 1.000000 0.000000 0
+@ sel stop
+@ sel stop
+@ sel stop
+~ Wheel `main_dlg_cur` `proe_win` 9 876 390 458752 0 1467 792 1920 1080 10578
+~ Wheel `main_dlg_cur` `proe_win` 9 573 363 458752 0 1467 792 1920 1080 11202
+~ Wheel `main_dlg_cur` `proe_win` 9 573 364 458752 0 1467 792 1920 1080 11239
+~ Wheel `main_dlg_cur` `proe_win` 9 461 279 393216 0 1467 792 1920 1080 15554
+~ Wheel `main_dlg_cur` `proe_win` 9 461 279 393216 0 1467 792 1920 1080 15581
+~ Wheel `main_dlg_cur` `proe_win` 9 461 279 393216 0 1467 792 1920 1080 15618
+~ Wheel `main_dlg_cur` `proe_win` 9 430 127 458752 0 1467 792 1920 1080 16410
+~ Wheel `main_dlg_cur` `proe_win` 9 424 122 458752 1536 1467 792 1920 1080 16444
+~ Wheel `main_dlg_cur` `proe_win` 9 418 117 458752 1536 1467 792 1920 1080 16497
+~ Wheel `main_dlg_cur` `proe_win` 9 408 106 458752 1536 1467 792 1920 1080 16542
+~ Wheel `main_dlg_cur` `proe_win` 9 405 95 458752 0 1467 792 1920 1080 16818
+~ Wheel `main_dlg_cur` `proe_win` 9 413 98 458752 1536 1467 792 1920 1080 16847
+~ Wheel `main_dlg_cur` `proe_win` 9 424 102 458752 1536 1467 792 1920 1080 16880
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 393216 0 1467 792 1920 1080 18514
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 393216 0 1467 792 1920 1080 20090
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 393216 0 1467 792 1920 1080 20473
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 393216 0 1467 792 1920 1080 20496
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 393216 0 1467 792 1920 1080 20529
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 458752 0 1467 792 1920 1080 20777
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 458752 0 1467 792 1920 1080 20809
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 458752 0 1467 792 1920 1080 20833
+~ Wheel `main_dlg_cur` `proe_win` 9 462 160 458752 0 1467 792 1920 1080 20865
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : PTC Creo Parametric Educational Edition will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
